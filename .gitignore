@@ -1,0 +1,8 @@
+*.swp
+*.swo
+*~
+btrfs
+extent-info
+extent-info.png
+qgroup-relation
+qgroup-relation.png
